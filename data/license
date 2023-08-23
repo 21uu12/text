@@ -1,0 +1,12 @@
+The destination name is too long (653), reducing to 236
+--2023-08-20 09:43:00--  https://download.llamameta.net/LICENSE?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiOWpyM3NtczI1bjJhZmV2Ync3MzdkcGp3IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MjU3ODA2MH19fV19&Signature=PEyRoYsxZBuH6Hcd-i4AYCffKhnEft2y9SPQGqlD3fS7u3lOTGXY8jr2lH1R7qaaTaz1vexo8m7TlGVWSmuWSiKZ16Mt3o-LXqh4zp1KrxXEqDV4HovG%7EcTK8v53au9ZbvDv7uZmTIqljI93boiZdQxGtHNibO4F5kAaQ%7ERsZOrP4TCnbVCqc94J-BFVd1sLSyBp0LOCxWkrpJgE6uzP4ZiuAwYcpmkhOFEJX0BdhLqq2vZIY7FKYNRLCH6eLL-UjQguGqVOdKZVQS9bikym%7EZFLayYMHmppniZAikXznZVCzuYm2dROEfgjMv4KU0i4qXPoidLdcEoUBAaB%7EaYGPg__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=253064374285684
+正在解析主机 download.llamameta.net (download.llamameta.net)... 18.154.144.23, 18.154.144.56, 18.154.144.95, ...
+正在连接 download.llamameta.net (download.llamameta.net)|18.154.144.23|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：7020 (6.9K) [binary/octet-stream]
+正在保存至: “LICENSE?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiOWpyM3NtczI1bjJhZmV2Ync3MzdkcGp3IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MjU3ODA2MH19fV19&”
+
+     0K ......                                                100%  609M=0s
+
+2023-08-20 09:43:02 (609 MB/s) - 已保存 “LICENSE?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiOWpyM3NtczI1bjJhZmV2Ync3MzdkcGp3IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MjU3ODA2MH19fV19&” [7020/7020])
+

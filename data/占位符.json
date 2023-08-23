@@ -1,0 +1,94 @@
+[
+{
+    "variable":"${tel}",
+    "desc":""
+}
+,
+{
+    "variable":"${mobile}",
+    "desc":""
+}
+,
+{
+    "variable":"${principal}",
+    "desc":""
+}
+,
+{
+    "variable":"${loanAmt}",
+    "desc":""
+}
+,
+{
+    "variable":"${carName}",
+    "desc":""
+}
+,
+{
+    "variable":"${bankName}",
+    "desc":""
+}
+,
+{
+    "variable":"${name}",
+    "desc":""
+}
+,
+{
+    "variable":"$${phone}",
+    "desc":""
+}
+,
+{
+    "variable":"${platform}",
+    "desc":""
+}
+,
+{
+    "variable":"${cardNumber}",
+    "desc":""
+}
+,{
+    "variable":"${principla}",
+    "desc":""
+}
+,
+{
+    "variable":"${company}",
+    "desc":""
+}
+,
+{
+    "variable":"${loanDate}",
+    "desc":""
+}
+,{
+    "variable":"${interest}",
+    "desc":""
+}
+,
+{
+    "variable":"${installmentPeriod}",
+    "desc":""
+}
+,
+{
+    "variable":"${overdueAmount}",
+    "desc":""
+}
+,
+{
+    "variable":"${bankCard}",
+    "desc":""
+}
+,
+{
+    "variable":"${repaymentedAmount}",
+    "desc":""
+},
+{
+    "variable":"${penaltyAmount}",
+    "desc":""
+}
+
+]
